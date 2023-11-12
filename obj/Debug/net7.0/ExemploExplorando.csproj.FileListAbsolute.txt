@@ -1,0 +1,28 @@
+C:\Visual Code\C#\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.exe
+C:\Visual Code\C#\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.deps.json
+C:\Visual Code\C#\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.runtimeconfig.json
+C:\Visual Code\C#\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.dll
+C:\Visual Code\C#\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.pdb
+C:\Visual Code\C#\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Code\C#\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.AssemblyInfoInputs.cache
+C:\Visual Code\C#\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.AssemblyInfo.cs
+C:\Visual Code\C#\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+C:\Visual Code\C#\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.dll
+C:\Visual Code\C#\ExemploExplorando\obj\Debug\net7.0\refint\ExemploExplorando.dll
+C:\Visual Code\C#\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.pdb
+C:\Visual Code\C#\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.genruntimeconfig.cache
+C:\Visual Code\C#\ExemploExplorando\obj\Debug\net7.0\ref\ExemploExplorando.dll
+C:\ProjetosFinalizados\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.exe
+C:\ProjetosFinalizados\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.deps.json
+C:\ProjetosFinalizados\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.runtimeconfig.json
+C:\ProjetosFinalizados\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.dll
+C:\ProjetosFinalizados\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.pdb
+C:\ProjetosFinalizados\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosFinalizados\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.AssemblyInfoInputs.cache
+C:\ProjetosFinalizados\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.AssemblyInfo.cs
+C:\ProjetosFinalizados\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+C:\ProjetosFinalizados\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.dll
+C:\ProjetosFinalizados\ExemploExplorando\obj\Debug\net7.0\refint\ExemploExplorando.dll
+C:\ProjetosFinalizados\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.pdb
+C:\ProjetosFinalizados\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.genruntimeconfig.cache
+C:\ProjetosFinalizados\ExemploExplorando\obj\Debug\net7.0\ref\ExemploExplorando.dll
